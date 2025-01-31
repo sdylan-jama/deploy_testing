@@ -1,4 +1,5 @@
 var empty;
+console.log("test)
 
 const temp = () => {
     return empty
